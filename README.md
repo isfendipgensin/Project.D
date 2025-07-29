@@ -56,4 +56,8 @@ Updater Python akan otomatis mendeteksi versi lebih baru & download ZIP update.
 1.0.2
 ```
 
+<<<<<<< HEAD
 🚀 **Selamat mengembangkan!**
+=======
+🚀 **Selamat mengembangkan!**
+>>>>>>> e4e97620ac65d85ee1aaef4bc19270909957e639
