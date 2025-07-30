@@ -1,4 +1,4 @@
-Changlog
+CHANGLOG
 
 0.25.3 / 31 JULI 2025
  ! Perbaikan UI agar Lebih smooth menghilangkan beberapa fungsi dan optimalisasi Bahasa
