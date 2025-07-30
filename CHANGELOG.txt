@@ -1,0 +1,17 @@
+Changlog
+
+0.25.3 / 31 JULI 2025
+ ! Perbaikan UI agar Lebih smooth menghilangkan beberapa fungsi dan optimalisasi Bahasa
+ ! Perbaikan pada Fitur PAS FOTO
+ ! Tombol Photoshop Scrip > Menu
+ + Tambahkan Folder Path Photoshop
+
+- Pada Saat Memilih Proses Buat Master Anda akan diperintahkan untuk mengisi Default Path Master PSDnya terlebih dulu
+  > Berfungsi untuk Master PROFESI, WISUDA dan MANASIK. untuk pas foto tidak berubah
+- Placeholder berisikan keterangan PILIH FOLDER dulu
+- Fungsi WSD / MSK akan memilih folder jika terdapat 2 item yang sama 
+- Pengaturan awal akan diperintahkan untuk memilih default path master (Bisa disetting manual lewat pengaturan)
+- Fungsi tidak akan berjalan jika default path belum diatur
+- dll
+
+Ditunggu Feedbacknya gaess.. love youu dari mas FENDI!!! :)
