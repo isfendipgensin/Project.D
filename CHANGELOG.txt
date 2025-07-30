@@ -1,10 +1,15 @@
 CHANGLOG
 
 0.25.3 / 31 JULI 2025
- ! Perbaikan UI agar Lebih smooth menghilangkan beberapa fungsi dan optimalisasi Bahasa
- ! Perbaikan pada Fitur PAS FOTO
- ! Tombol Photoshop Scrip > Menu
- + Tambahkan Folder Path Photoshop
+BIG UPDATE :
+- Perubahan dari Style Tkinter theme jadi Tkkbotstrap
+
+Minor
+! Style App Lebih responsiv, dan Ringan
+! Bug Fitur PAS FOTO
+! Tombol Photoshop Scrip > Menu
++ Fitur Path Master PSD
++ Fitur Master Collection
 
 - Pada Saat Memilih Proses Buat Master Anda akan diperintahkan untuk mengisi Default Path Master PSDnya terlebih dulu
   > Berfungsi untuk Master PROFESI, WISUDA dan MANASIK. untuk pas foto tidak berubah
