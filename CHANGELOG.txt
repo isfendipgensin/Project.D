@@ -1,8 +1,11 @@
 CHANGLOG
 
-0.25.3 / 31 JULI 2025
+0.25.4 / 31 JULI 2025
 BIG UPDATE :
 - Perubahan dari Style Tkinter theme jadi Tkkbotstrap
+
+Fix Bug :
+- Fitur Buat Folder
 
 Minor
 ! Style App Lebih responsiv, dan Ringan
@@ -10,6 +13,8 @@ Minor
 ! Tombol Photoshop Scrip > Menu
 + Fitur Path Master PSD
 + Fitur Master Collection
++ Menambahkan contex menu ditabel, Khusus untuk Pilihan yang ada di direktori Local
+  > Ini tidak akan berfungsi untuk pilihan yang ada di server karna aplikasi tidak bisa mengakses langsung
 
 - Pada Saat Memilih Proses Buat Master Anda akan diperintahkan untuk mengisi Default Path Master PSDnya terlebih dulu
   > Berfungsi untuk Master PROFESI, WISUDA dan MANASIK. untuk pas foto tidak berubah
